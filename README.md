@@ -1,4 +1,4 @@
-# Modificación: Práctica 6
+# Ejercicio de clase
 ### Desarrollo de Sistemas Informáticos
 ### Universidad de La Laguna
 > Javier Mendoza López
