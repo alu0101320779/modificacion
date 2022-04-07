@@ -55,3 +55,5 @@ export class Suscriptor implements Observer {
   
   console.log('firstRevistaObserver unsubscription');
   myRevista.unsubscribe(firstRevistaObserver);
+
+  
