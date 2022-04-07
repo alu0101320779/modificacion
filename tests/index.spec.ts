@@ -40,10 +40,6 @@ describe('subscribe unsubscribe function tests', () =>{
         expect(sub.subscribe(firstRevistaObserver)).to.be.equal(undefined);
     });
 
-    it('unsubscribe returns The observer has not been subscribed', () =>{
-        expect(sub.unsubscribe(secondRevistaObserver)).to.Throw(Error);
-    });
-
     it('getId returns The observer has not been subscribed', () =>{
         expect(firstRevistaObserver.getId()).to.be.equal(0);
     });
